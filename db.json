@@ -3,18 +3,18 @@
     "status": 200,
     "message": "lorem ipsum...",
     "data": {
-      "userId": "jihuwxwyx-878yh-bxwygxw7-8h7g",
-      "fullname": "Agung Kurnia",
-      "username": "agung12345",
+      "user_id": "jihuwxwyx-878yh-bxwygxw7-8h7g",
+      "full_name": "Agung Kurnia",
+      "user_name": "agung12345",
       "email_address": "agung@gmail.com",
       "bio": "blabla",
-      "isOnline": true,
-      "createdAt": "2021-04-26T09:23:54.494Z",
-      "profilePictureUrl": "https//...",
-      "lastOnlineTimestamp": "2021-04-26T09:23:54.494Z",
+      "is_online": true,
+      "created_at": "2021-04-26T09:23:54.494Z",
+      "profile_picture_url": "https//...",
+      "last_online_timestamp": "2021-04-26T09:23:54.494Z",
       "nik": 16061,
-      "birthPlace": "Bandung",
-      "dateOfBirth": "14/12/1992"
+      "birth_place": "Bandung",
+      "date_of_birth": "14/12/1992"
     }
   }
 }
