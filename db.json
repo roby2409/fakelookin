@@ -1,20 +1,70 @@
 {
-  "user" : {
-    "status": 200,
-    "message": "lorem ipsum...",
-    "data": {
-      "user_id": "jihuwxwyx-878yh-bxwygxw7-8h7g",
-      "full_name": "Agung Kurnia",
-      "user_name": "agung12345",
-      "email_address": "agung@gmail.com",
-      "bio": "blabla",
-      "is_online": true,
-      "created_at": "2021-04-26T09:23:54.494Z",
-      "profile_picture_url": "https//...",
-      "last_online_timestamp": "2021-04-26T09:23:54.494Z",
-      "nik": 16061,
-      "birth_place": "Bandung",
-      "date_of_birth": "14/12/1992"
-    }
-  }
+    "status": "success",
+    "code": 200,
+    "message": "Get User Channels success.",
+    "data": [
+        {
+            "type": "personal",
+            "last_message": "blabla",
+            "time_last_message": "Now / yesterday / 28 Mar",
+            "unread_message": 1,
+            "created_at": "2021-06-03 17:09:12",
+            "deleted_at": null,
+            "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+            "pivot": {
+                "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
+                "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac"
+            },
+            "users": [
+                    "fullname": "roby",
+                    "username": "waduh",
+                    "email": "robysetiawan2409@gmail.com",
+                    "email_verified_at": null,
+                    "bio": "yeyah",
+                    "profile_picture_url": "http://localhostprofile_picture/example_avatar.png",
+                    "nik": "1234567890987654",
+                    "birth_place": "Jakarta",
+                    "date_of_birth": "2020-01-01",
+                    "is_online": 1,
+                    "created_at": "2021-06-03T09:52:24.000000Z",
+                    "updated_at": "2021-06-07T09:07:51.000000Z",
+                    "deleted_at": null,
+                    "user_id": "afd5a682c8924740a66d4aa521c8248d",
+                    "pivot": {
+                        "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+                        "user_id": "afd5a682c8924740a66d4aa521c8248d"
+                    }
+        },
+        {
+            "type": "personal",
+            "created_at": "2021-06-07 16:29:33",
+            "deleted_at": null,
+            "channel_id": "2f131c87891b44d9ad115d6f7ab2fedf",
+            "pivot": {
+                "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
+                "channel_id": "2f131c87891b44d9ad115d6f7ab2fedf"
+            },
+            "users": [
+                    "fullname": "User Tiga",
+                    "username": "usertiga",
+                    "email": "usertiga@gmail.com",
+                    "email_verified_at": null,
+                    "bio": "This is bio",
+                    "profile_picture_url": "http://localhostprofile_picture/example_avatar.png",
+                    "nik": "1234567890987654",
+                    "birth_place": "Jakarta",
+                    "date_of_birth": "2020-01-01",
+                    "is_online": 1,
+                    "created_at": "2021-06-03T10:11:40.000000Z",
+                    "updated_at": "2021-06-03T10:13:16.000000Z",
+                    "deleted_at": null,
+                    "user_id": "9737c4d127a940aa898b9486cd179dc7",
+                    "pivot": {
+                        "channel_id": "2f131c87891b44d9ad115d6f7ab2fedf",
+                        "user_id": "9737c4d127a940aa898b9486cd179dc7"
+                }
+            ]
+        }
+    ],
+    "errors": []
 }
