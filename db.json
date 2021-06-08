@@ -15,27 +15,26 @@
                 "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
                 "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac"
             },
-            "users": 
-                {
-                    "fullname": "roby",
-                    "username": "waduh",
-                    "email": "robysetiawan2409@gmail.com",
-                    "email_verified_at": null,
-                    "bio": "yeyah",
-                    "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
-                    "nik": "1234567890987654",
-                    "birth_place": "Jakarta",
-                    "date_of_birth": "2020-01-01",
-                    "is_online": 1,
-                    "created_at": "2021-06-03T09:52:24.000000Z",
-                    "updated_at": "2021-06-07T09:07:51.000000Z",
-                    "deleted_at": null,
-                    "user_id": "afd5a682c8924740a66d4aa521c8248d",
-                    "pivot": {
-                        "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
-                        "user_id": "afd5a682c8924740a66d4aa521c8248d"
-                    }
+            "users": {
+                "fullname": "roby",
+                "username": "waduh",
+                "email": "robysetiawan2409@gmail.com",
+                "email_verified_at": null,
+                "bio": "yeyah",
+                "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
+                "nik": "1234567890987654",
+                "birth_place": "Jakarta",
+                "date_of_birth": "2020-01-01",
+                "is_online": 1,
+                "created_at": "2021-06-03T09:52:24.000000Z",
+                "updated_at": "2021-06-07T09:07:51.000000Z",
+                "deleted_at": null,
+                "user_id": "afd5a682c8924740a66d4aa521c8248d",
+                "pivot": {
+                    "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+                    "user_id": "afd5a682c8924740a66d4aa521c8248d"
                 }
+            }
         },
         {
             "type": "personal",
@@ -49,27 +48,26 @@
                 "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
                 "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac"
             },
-            "users": 
-                {
-                    "fullname": "roby",
-                    "username": "waduh",
-                    "email": "robysetiawan2409@gmail.com",
-                    "email_verified_at": null,
-                    "bio": "yeyah",
-                    "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
-                    "nik": "1234567890987654",
-                    "birth_place": "Jakarta",
-                    "date_of_birth": "2020-01-01",
-                    "is_online": 1,
-                    "created_at": "2021-06-03T09:52:24.000000Z",
-                    "updated_at": "2021-06-07T09:07:51.000000Z",
-                    "deleted_at": null,
-                    "user_id": "afd5a682c8924740a66d4aa521c8248d",
-                    "pivot": {
-                        "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
-                        "user_id": "afd5a682c8924740a66d4aa521c8248d"
-                    }
+            "users": {
+                "fullname": "roby",
+                "username": "waduh",
+                "email": "robysetiawan2409@gmail.com",
+                "email_verified_at": null,
+                "bio": "yeyah",
+                "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
+                "nik": "1234567890987654",
+                "birth_place": "Jakarta",
+                "date_of_birth": "2020-01-01",
+                "is_online": 1,
+                "created_at": "2021-06-03T09:52:24.000000Z",
+                "updated_at": "2021-06-07T09:07:51.000000Z",
+                "deleted_at": null,
+                "user_id": "afd5a682c8924740a66d4aa521c8248d",
+                "pivot": {
+                    "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+                    "user_id": "afd5a682c8924740a66d4aa521c8248d"
                 }
+            }
         },
         {
             "type": "personal",
@@ -83,27 +81,26 @@
                 "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
                 "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac"
             },
-            "users": 
-                {
-                    "fullname": "roby",
-                    "username": "waduh",
-                    "email": "robysetiawan2409@gmail.com",
-                    "email_verified_at": null,
-                    "bio": "yeyah",
-                    "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
-                    "nik": "1234567890987654",
-                    "birth_place": "Jakarta",
-                    "date_of_birth": "2020-01-01",
-                    "is_online": 1,
-                    "created_at": "2021-06-03T09:52:24.000000Z",
-                    "updated_at": "2021-06-07T09:07:51.000000Z",
-                    "deleted_at": null,
-                    "user_id": "afd5a682c8924740a66d4aa521c8248d",
-                    "pivot": {
-                        "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
-                        "user_id": "afd5a682c8924740a66d4aa521c8248d"
-                    }
+            "users": {
+                "fullname": "roby",
+                "username": "waduh",
+                "email": "robysetiawan2409@gmail.com",
+                "email_verified_at": null,
+                "bio": "yeyah",
+                "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
+                "nik": "1234567890987654",
+                "birth_place": "Jakarta",
+                "date_of_birth": "2020-01-01",
+                "is_online": 1,
+                "created_at": "2021-06-03T09:52:24.000000Z",
+                "updated_at": "2021-06-07T09:07:51.000000Z",
+                "deleted_at": null,
+                "user_id": "afd5a682c8924740a66d4aa521c8248d",
+                "pivot": {
+                    "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+                    "user_id": "afd5a682c8924740a66d4aa521c8248d"
                 }
+            }
         },
         {
             "type": "personal",
@@ -117,27 +114,26 @@
                 "user_id": "eb11bcaae6174d0a8d5d7d4154509573",
                 "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac"
             },
-            "users": 
-                {
-                    "fullname": "roby",
-                    "username": "waduh",
-                    "email": "robysetiawan2409@gmail.com",
-                    "email_verified_at": null,
-                    "bio": "yeyah",
-                    "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
-                    "nik": "1234567890987654",
-                    "birth_place": "Jakarta",
-                    "date_of_birth": "2020-01-01",
-                    "is_online": 1,
-                    "created_at": "2021-06-03T09:52:24.000000Z",
-                    "updated_at": "2021-06-07T09:07:51.000000Z",
-                    "deleted_at": null,
-                    "user_id": "afd5a682c8924740a66d4aa521c8248d",
-                    "pivot": {
-                        "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
-                        "user_id": "afd5a682c8924740a66d4aa521c8248d"
-                    }
+            "users": {
+                "fullname": "roby",
+                "username": "waduh",
+                "email": "robysetiawan2409@gmail.com",
+                "email_verified_at": null,
+                "bio": "yeyah",
+                "profile_picture_url": "http://192.168.1.2/lookin-id/public/profile_picture/example_avatar.png",
+                "nik": "1234567890987654",
+                "birth_place": "Jakarta",
+                "date_of_birth": "2020-01-01",
+                "is_online": 1,
+                "created_at": "2021-06-03T09:52:24.000000Z",
+                "updated_at": "2021-06-07T09:07:51.000000Z",
+                "deleted_at": null,
+                "user_id": "afd5a682c8924740a66d4aa521c8248d",
+                "pivot": {
+                    "channel_id": "b92c6e6f2dc24408add5f0b4f95e17ac",
+                    "user_id": "afd5a682c8924740a66d4aa521c8248d"
                 }
+            }
         }
     ],
     "errors": []
